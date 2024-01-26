@@ -17,6 +17,12 @@ Once you have Go installed and correctly configured, open a terminal/console in 
 
 To run the tests make sure in your terminal/console you are in the tests folder and type `go test . -v`
 
+
+### Gameflow
+a flow chart showing the flow of the game:
+![image info](./assets/gameflow.png)
+
+
 ### Playing the game
 First input your username
 After this the gameloop starts in which you will have a choice of `rock`, `paper` or `scissors`.
